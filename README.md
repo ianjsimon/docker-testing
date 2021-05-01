@@ -1,4 +1,4 @@
-# dockerhw2
+# docker-testing
 
 # To Run:
 From the directory containing hw2.py and Dockerfile, run:
